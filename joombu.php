@@ -58,7 +58,7 @@ class plgButtonJoomBu extends JPlugin
     // Task of the button
     if($this->params->get('extended', 1))
     {
-      $link = 'index.php?option=com_joomgallery&amp;view=mini&amp;format=raw&amp;e_name='.$name.'&amp;catid=0&amp;extended=1';
+      $link = 'index.php?option=com_joomgallery&amp;view=mini&amp;format=raw&amp;e_name='.$name.'&amp;catid=0&amp;extended=1&amp;prefix=joombu';
       $button->set('link', $link);
 
       JHtml::_('behavior.modal');
