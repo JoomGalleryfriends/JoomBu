@@ -4,7 +4,7 @@
 /******************************************************************************\
 **   JoomGallery Editor Button Plugin 'JoomBu' 3.2                            **
 **   By: JoomGallery::ProjectTeam                                             **
-**   Copyright (C) 2011 - 2013 JoomGallery::ProjectTeam                       **
+**   Copyright (C) 2011 - 2019 JoomGallery::ProjectTeam                       **
 **   Released under GNU GPL Public License                                    **
 **   License: http://www.gnu.org/copyleft/gpl.html                            **
 \******************************************************************************/
